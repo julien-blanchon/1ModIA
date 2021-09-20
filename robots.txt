@@ -1,4 +1,4 @@
-Sitemap: https://tlienart.github.io/FranklinTemplates.jl/sitemap.xml
+Sitemap: https://julien-blanchon.github.io/1ModIA/sitemap.xml
 
 User-agent: *
 Disallow:
