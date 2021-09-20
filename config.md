@@ -1,7 +1,11 @@
-@def prepath = "1ModIA"
 <!--
 Add here global page variables to use throughout your website.
 -->
+@def title = "1ModIA"
+@def website_descr = "ModIA 1A"
+@def prepath = "1ModIA"
+@def website_url   = "https://julien-blanchon.github.io/1ModIA/"
+
 +++
 author = "Septimia Zenobia"
 mintoclevel = 2
