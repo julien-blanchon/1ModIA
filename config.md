@@ -2,6 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
+@def prepath = "1ModIA"
 author = "Septimia Zenobia"
 mintoclevel = 2
 
